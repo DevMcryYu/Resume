@@ -1,6 +1,6 @@
 # 个人简历
 > DevMcry Yu 的个人简历  
-最后更新于： 2018/12/04
+最后更新于： 2019/01/26
 ## 个人信息
 - 姓名：赵环宇
 - 性别：男
@@ -9,6 +9,7 @@
 - 手机：17314982060
 - 英语等级：CET-6（477）
 - 技术面向：**Android**
+- 实习时间：2019.03-2020.06
 - Email： tl920758496.huan@gmail.com
 - github：https://github.com/devmcryyu
 - 个人博客：https://github.com/devmcryyu
